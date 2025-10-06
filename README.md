@@ -10,7 +10,6 @@
 </div>
 
 
-
 <div align="center">
 	<img src=".github/hero.png?v=5" alt="Hero Image" width="72%" />
 </div>
